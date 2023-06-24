@@ -37,7 +37,7 @@ class DnsChanger(QWidget):
         vbox.addWidget(self.restore_btn)
         self.setLayout(vbox)
 
-        self.setWindowTitle('BSS DNS Changer')
+        self.setWindowTitle('Beshkan')
         self.show()
 
     def shecan_preset(self):
